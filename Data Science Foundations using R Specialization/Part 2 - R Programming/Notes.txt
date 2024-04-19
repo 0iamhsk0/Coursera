@@ -15,7 +15,7 @@
 
 5. Matrix - are type of homogenous vector with a dim attribute
 constructed by column wise(default)
-  methods - dim, attributes, cbind, rbind, dimnames
+  methods - dim, attributes, cbind, rbind, dimnames, drop
 
 6. factors - are ordered or unordered labeld vectors
 methods - factor(c()), table, unclass, attr
@@ -32,3 +32,5 @@ methods - read.table, read.csv, readLines, source, dget, load, unserialize
 
 10. write data - 
 methods - write.table, writeLines, dump, dput, save, serialize
+
+
