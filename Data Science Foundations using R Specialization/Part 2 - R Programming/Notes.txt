@@ -1,0 +1,34 @@
+1. Data types in R:
+  atomic classes(numeric, logical, character, integer, complex)
+  vectors
+  factors
+  missing values
+  data frames
+  names
+
+2. most basic object is a vector, list is a heterogenic vector
+
+3. c() function is used to create vectors, default value = 0
+
+4. type casting in R is called Coersion:
+  of different types- implicit(automatic), explicit(manual) etc.
+
+5. Matrix - are type of homogenous vector with a dim attribute
+constructed by column wise(default)
+  methods - dim, attributes, cbind, rbind, dimnames
+
+6. factors - are ordered or unordered labeld vectors
+methods - factor(c()), table, unclass, attr
+
+7. missing values - denoted by NA or NaN
+methods - is.na, is.nan
+
+8. data frames - special lists with every element having the same length 
+heterogenous type
+methods - data.frame, nrow, ncol
+
+9. Reading tabular data - 
+methods - read.table, read.csv, readLines, source, dget, load, unserialize
+
+10. write data - 
+methods - write.table, writeLines, dump, dput, save, serialize
