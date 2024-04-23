@@ -18,3 +18,9 @@ W-1
 5. Removing and replacing text characters
 	by using - substitiute(), unicode(), unichar()
 
+W-2
+
+1. converting text data 
+	by using - Value(), Text()
+2. 
+
