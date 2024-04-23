@@ -22,5 +22,7 @@ W-2
 
 1. converting text data 
 	by using - Value(), Text()
-2. 
+2. Understanding dates and basic date functions
+	by usning - Now(), Today(), Day(), Month(), Year()
+3. 
 
